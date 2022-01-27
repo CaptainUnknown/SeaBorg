@@ -1,5 +1,5 @@
 Binaries
-Content\UltraDynamicSky
+Content/UltraDynamicSky
 DerivedDataCache
 Intermediate
 Plugins
@@ -14,4 +14,3 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-*.uasset
